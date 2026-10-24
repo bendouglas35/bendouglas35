@@ -1,14 +1,11 @@
-# Hi, I'm Ben Douglas
+# 👋 Hi, There!
 
-### Mathematics · Forecasting · Investment Research
+I'm a First-Class Mathematics graduate from Lancaster University 
 
-I'm a First-Class Mathematics graduate from Lancaster University, interested in using data, models and commercial judgement to understand markets and improve decisions.
+* Interested in using data, models and commercial judgement to understand markets and improve decisions.
+* My work spans energy-demand forecasting, long-term company research and Scottish housing analysis. Alongside these projects, I've applied Python and automation to practical problems in a family heavy-haulage and plant business.
 
-My work spans energy-demand forecasting, long-term company research and Scottish housing analysis. Alongside these projects, I've applied Python and automation to practical problems in a family heavy-haulage and plant business.
-
-[LinkedIn](https://www.linkedin.com/in/ben-d-b63261137/)
-
-## Selected Projects
+## 📚 Projects
 
 | Project | Focus | Approach |
 | :--- | :--- | :--- |
@@ -16,25 +13,21 @@ My work spans energy-demand forecasting, long-term company research and Scottish
 | **[GB Day-Ahead Gas Demand Forecast](https://github.com/bendouglas35/gb-gas-demand-forecasting)** | Energy and time-series forecasting | Python models using gas-demand publications, archived weather and electricity-system forecasts, with walk-forward validation and controls against look-ahead bias. |
 | **[Scottish Housing & Rent Forecasting](https://github.com/bendouglas35/scottish-housing-rent-forecasting)** | Regional property-market analysis | Reproducible analysis in R, using Fife as a case study, forecasts evaluated against later observations, charts and an interactive map. |
 
-## Experience
-
-**Business & Process Improvement · E & J Douglas**
-
-Project-based work in my family's heavy-haulage and plant business, translating operational knowledge into clearer processes and practical analytical tools.
-
-- Used Python and APIs to automate approximately 90% of a cost-calculation workflow.
-- Reorganised workshop processes and introduced stock-reordering rules.
-- Built an asset-replacement decision model; a maintenance-aware planning system remains in testing.
-
-## Education
+## 🎓 Education
 
 **BSc Mathematics · Lancaster University**  
 First-Class Honours · 74% overall
 
-Selected modules: Computational Mathematics (95%), Statistical Models (86%), Stochastic Processes (85%) and Probability Theory (80%).
+## 💡 Skills
 
-## Tools & Interests
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-**Tools:** R · Python · Excel · Power BI  
-**Developing:** SQL  
-**Interests:** Investment research, forecasting, decision-making under uncertainty, tennis, chess and hiking.
+## 🌐 Socials
+
+[![LinkedIn](./assets/linkedin-badge.svg)](https://www.linkedin.com/in/YOUR-USERNAME/)
+
+
+
